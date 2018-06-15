@@ -143,7 +143,7 @@
     "@types/qr-image": "^3.2.1",
     "@types/raven": "^2.1.0",
     "@types/read-pkg-up": "^3.0.0",
-    "@types/request": "^2.0.0",
+    "@types/request": "^2.47.1",
     "@types/semver": "^5.5.0",
     "@types/sinon": "^5.0.0",
     "@types/ws": "^5.1.0",
