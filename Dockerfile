@@ -1,6 +1,8 @@
 FROM ubuntu:18.04
 LABEL maintainer="Huan LI <zixia@zixia.net>"
 
+ENV http_proxy http://192.168.0.127:8118/
+ENV https_proxy http://192.168.0.127:8118/
 ENV DEBIAN_FRONTEND     noninteractive
 ENV WECHATY_DOCKER      1
 ENV LC_ALL              C.UTF-8

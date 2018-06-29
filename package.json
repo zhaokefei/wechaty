@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chatie/wechaty.git"
+    "url": "git+https://github.com/zhaokefei/wechaty.git"
   },
   "bin": {
     "wechaty-io-client": "dist/bin/io-client.js",
@@ -72,9 +72,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/chatie/wechaty/issues"
+    "url": "https://github.com/zhaokefei/wechaty/issues"
   },
-  "homepage": "https://github.com/chatie/wechaty#readme",
+  "homepage": "https://github.com/zhaokefei/wechaty#readme",
   "eslintConfig": {
     "env": {
       "browser": true,
